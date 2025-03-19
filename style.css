@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(157, 245, 255);
+}
+
+nav {
+    text-align: center;
+}
+
+.navtitle {
+    font-family: Apple Chancery, cursive;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
