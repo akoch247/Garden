@@ -1,1 +1,1 @@
-# Garden
+# Garden Adriana Koch's gardening catalog to keep track of all her plants.
