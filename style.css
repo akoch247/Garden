@@ -4,10 +4,13 @@ body {
 
 nav {
     text-align: center;
+    font-family:Apple Chancery, cursive;
+    font-size: 20px
 }
 
 .navtitle {
     font-family: Apple Chancery, cursive;
+    font-size: 25px
 }
 
 .center {
